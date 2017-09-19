@@ -1,0 +1,1213 @@
+@media screen and (min-width: 1441px) and (max-width: 1680px) {
+    .main {
+        left: 96px;
+        top: 140px;
+        right: 96px;
+        bottom: 100px;
+    }
+
+    .loaded .s-ace-circle .circle {
+        margin-top: 30px;
+    }
+
+    .home .s-a-home {
+        transform: scale(0.85) translateY(-9%);
+    }
+
+    .main .s-ace {
+        margin-top: -20px;
+    }
+
+    .server .server-intro {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+
+    .server .server-list {
+        margin-top: 40px;
+    }
+
+    .server .server-list li {
+        padding: 0 100px;
+    }
+
+    .server .server-list li h3 {
+        font-size: 24px;
+    }
+
+    .server .server-list li .more {
+        font-size: 14px;
+        right: 55px;
+        top: 6px;
+    }
+
+    .server .server-list li .img {
+        margin-top: 20px;
+        max-width: 260px;
+    }
+
+    .case .list {
+        top: 70px;
+        left: 110px;
+        bottom: 70px;
+        right: 75px;
+    }
+
+    .case .list .item .mask h3 a strong {
+        font-size: 22px;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 36px;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        top: 60px;
+        padding-right: 56%;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        top: 60px;
+        width: 50%;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 18px;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        margin-left: 90px;
+        padding-top: 4px;
+    }
+
+    .job-detail .content .table {
+        top: 77px;
+    }
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    .main {
+        left: 50px;
+        top: 140px;
+        right: 50px;
+        bottom: 95px;
+    }
+
+    .loaded .s-ace-circle .circle {
+        margin-top: 25px;
+    }
+
+    .home .s-a-home {
+        transform: scale(0.75) translateY(-17%);
+    }
+
+    .main .s-ace {
+        margin-top: -20px;
+    }
+
+    .main .s-ace .bottom {
+        bottom: -10px;
+    }
+
+    .server .server-intro {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    .server .server-list {
+        margin-top: 30px;
+    }
+
+    .server .server-list li {
+        padding: 0 100px;
+    }
+
+    .server .server-list li h3 {
+        font-size: 20px;
+    }
+
+    .server .server-list li .more {
+        font-size: 14px;
+        right: 55px;
+        top: 2px;
+    }
+
+    .server .server-list li .img {
+        margin-top: 20px;
+        max-width: 200px;
+    }
+
+    .case .list {
+        top: 50px;
+        left: 100px;
+        bottom: 50px;
+        right: 70px;
+    }
+
+    .case .list .item .mask h3 a strong {
+        font-size: 20px;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 32px;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        top: 55px;
+        padding-right: 60%;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        top: 55px;
+        width: 55%;
+        right: 2%;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 16px;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        margin-left: 80px;
+        padding-top: 3px;
+    }
+
+    .job-detail .content .table {
+        top: 69px;
+    }
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    .main {
+        left: 50px;
+        top: 130px;
+        right: 50px;
+        bottom: 95px;
+    }
+
+    .loaded .s-ace-circle .circle {
+        margin-top: 20px;
+    }
+
+    .home .s-a-home {
+        transform: scale(0.65) translateY(-27%);
+    }
+
+    .main .s-ace {
+        margin-top: -30px;
+    }
+
+    .main .s-ace .bottom {
+        bottom: -10px;
+    }
+
+    .server .server-intro {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+
+    .server .server-list {
+        margin-top: 25px;
+    }
+
+    .server .server-list li {
+        padding: 0 100px;
+    }
+
+    .server .server-list li h3 {
+        font-size: 18px;
+    }
+
+    .server .server-list li .more {
+        font-size: 12px;
+        right: 55px;
+        top: 2px;
+    }
+
+    .server .server-list li .img {
+        margin-top: 15px;
+        max-width: 180px;
+    }
+
+    .case .list {
+        top: 35px;
+        left: 90px;
+        bottom: 35px;
+        right: 65px;
+    }
+
+    .case .list .item .mask h3 a strong {
+        font-size: 18px;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 28px;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        top: 50px;
+        padding-right: 62%;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        top: 50px;
+        width: 57%;
+        right: 2%;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 14px;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        margin-left: 70px;
+        padding-top: 3px;
+    }
+
+    .job-detail .content .table {
+        top: 69px;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+    .main {
+        left: 50px;
+        top: 130px;
+        right: 50px;
+        bottom: 95px;
+    }
+
+    .loaded .s-ace-circle .circle {
+        margin-top: 15px;
+    }
+
+    .home .s-a-home {
+        transform: scale(0.55) translateY(-40%);
+    }
+
+    .main .s-ace {
+        margin-top: -30px;
+    }
+
+    .server .server-intro {
+        font-size: 14px;
+        padding-top: 10px;
+        line-height: 1.3;
+    }
+
+    .server .server-list {
+        margin-top: 20px;
+    }
+
+    .server .server-list li {
+        padding: 0 100px;
+    }
+
+    .server .server-list li h3 {
+        font-size: 16px;
+    }
+
+    .server .server-list li .more {
+        font-size: 12px;
+        right: 55px;
+        top: 0;
+    }
+
+    .server .server-list li .img {
+        margin-top: 10px;
+        max-width: 180px;
+    }
+
+    .case .list {
+        top: 30px;
+        left: 80px;
+        bottom: 30px;
+        right: 60px;
+    }
+
+    .case .list .item .mask h3 a strong {
+        font-size: 16px;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 24px;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        top: 40px;
+        padding-right: 70%;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        top: 40px;
+        width: 65%;
+        right: 2%;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 12px;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        margin-left: 60px;
+        padding-top: 2px;
+    }
+
+    .job-detail .content .table {
+        top: 69px;
+    }
+}
+
+@media screen and (min-width: 1023px) and (max-width: 1024px) {
+    .main {
+        left: 50px;
+        top: 130px;
+        right: 50px;
+        bottom: 95px;
+    }
+
+    .loaded .s-ace-circle .circle {
+        margin-top: 30px;
+    }
+
+    .home .s-a-home {
+        transform: scale(0.8) translateY(-12%);
+    }
+
+    .home .s-a-home .s-ace {
+        width: 1100px;
+        margin-left: -88px;
+        margin-top: -10px;
+    }
+
+    .server .server-intro {
+        font-size: 16px;
+        padding-top: 30px;
+        line-height: 1.6;
+    }
+
+    .server .server-list {
+        margin-top: 50px;
+    }
+
+    .server .server-list li {
+        padding: 0 70px;
+    }
+
+    .server .server-list li h3 {
+        font-size: 16px;
+    }
+
+    .server .server-list li .more {
+        font-size: 12px;
+        right: 30px;
+        top: 0;
+    }
+
+    .server .server-list li .img {
+        margin-top: 20px;
+        max-width: 160px;
+    }
+
+    .case .list {
+        top: 120px;
+        bottom: 120px;
+    }
+
+    .case .list .item {
+        width: 31.75%;
+    }
+
+    .case .list .item .mask h3 a strong {
+        font-size: 16px;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 24px;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        top: 45px;
+        padding-right: 55%;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        top: 45px;
+        width: 46%;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 14px;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        margin-left: 70px;
+    }
+
+    .job-detail .content .table {
+        top: 69px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+    .nav_about {
+        padding-top: 40px;
+    }
+
+    .nav_about .line {
+        padding-top: 46px;
+    }
+
+    .nav_about .item {
+        margin-bottom: 12px;
+    }
+
+    .nav_about ul {
+        padding: 5px 0;
+    }
+
+    .nav_about h3 {
+        font-size: 13px;
+    }
+
+    .nav_about h4 {
+        font-size: 13px;
+    }
+
+    .header {
+        padding: 30px 50px 0;
+    }
+
+    .nav_main {
+        width: 100%;
+        right: -100%;
+    }
+
+    .footer {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .footer .left {
+        display: none;
+    }
+
+    .footer .left2 {
+        display: block;
+    }
+
+    .footer .right {
+        padding: 2px 0 0 0;
+    }
+
+    .footer .right .share a {
+        margin-left: 10px;
+    }
+
+    #client {
+        bottom: 65px;
+    }
+
+    .about .content h1 {
+        font-size: 36px;
+    }
+
+    .about .content .txt {
+        font-size: 14px;
+    }
+
+    .case_detail .content .des h3 {
+        font-size: 20px;
+    }
+
+    .case_detail .content .des .attr {
+        font-size: 14px;
+    }
+
+    .case_detail .content .labels {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        margin-left: 20px;
+        width: 40px;
+    }
+
+    .case_detail .content .labels a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 10px 0 0 0;
+    }
+
+    .case_detail .content .labels a.a1 {
+        background-size: 70% auto;
+    }
+
+    .case_detail .content .labels a.a2 {
+        background-size: 50% auto;
+    }
+
+    .case_detail .content .labels a.a3 {
+        font-size: 14px;
+    }
+
+    .join-us .list {
+        top: 20px;
+    }
+
+    .join-us .list h1 {
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+
+    .join-us .list .table {
+        max-height: 210px;
+    }
+
+    .join-us .list table thead td {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+
+    .join-us .list table tbody td {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+
+    .join-us .list p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .job-detail .content .title {
+        font-size: 34px;
+    }
+
+    .job-detail .content .post {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .job-detail .content table td {
+        padding: 8px 0;
+        font-size: 14px;
+    }
+
+    .job-detail .content table td.name {
+        width: 100px;
+        padding-right: 30px;
+        font-size: 16px;
+    }
+
+    .b_nav i {
+        width: 15px;
+        height: 15px;
+    }
+}
+
+@media screen and (min-width: 1023px) and (max-width: 1280px) {
+    .footer .left2 .d:nth-child(1) {
+        display: none;
+    }
+
+    .footer .left2 .d:nth-child(3) {
+        display: none;
+    }
+
+    .case {
+        overflow: hidden;
+        position: relative;
+    }
+
+    .b_nav i {
+        width: 14px;
+        height: 14px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .hide {
+        display: none;
+    }
+
+    .min-show {
+        display: block;
+    }
+
+    .main {
+        right: 0;
+        left: 0;
+        top: 80px;
+        bottom: 90px;
+    }
+
+    .banner.rotate .d {
+        width: 100%;
+        height: 300%;
+        background-size: 200% auto;
+    }
+
+    .banner.rotate .right .d {
+        background-position: 100% center;
+    }
+
+    .banner.rotate .left .d {
+        background-position: 0 center;
+    }
+
+    .server-pho.main, .body-case .main, .body-join .main {
+        bottom: 0;
+    }
+
+    .main .bdr {
+        display: none;
+    }
+
+    .header {
+        height: 72px;
+        padding: 30px 3% 0;
+    }
+
+    .header .logo {
+        width: 151px;
+        height: 42px;
+        background-size: contain;
+    }
+
+    .header .menu {
+        width: 40px;
+        height: 24px;
+        top: 9px;
+    }
+
+    .header .menu i:nth-child(2) {
+        top: 10px;
+    }
+
+    .header .menu i:nth-child(3) {
+        top: 21px;
+    }
+
+    .footer {
+        padding: 0 10px 10px;
+        height: auto;
+    }
+
+    .footer .left {
+        display: none;
+    }
+
+    .footer .right {
+        display: none;
+    }
+
+    .footer .m {
+        display: block;
+        font-size: 14px;
+    }
+
+    .footer .m strong {
+        font-family: Arial;
+        font-size: 0.3rem;
+    }
+
+    .nav_main {
+        width: 100%;
+        right: -100%;
+    }
+
+    .nav_main .inner {
+        width: 70%;
+    }
+
+    .nav_main .d a {
+        padding-left: 146px;
+    }
+
+    .nav_main .d h3 {
+        font-size: 20px;
+    }
+
+    .nav_main .d p {
+        font-size: 12px;
+    }
+
+    .nav_main .menu {
+        right: 85%;
+        top: 60px;
+        margin-right: -15px;
+    }
+
+    .about .content {
+        width: 90%;
+        margin: 0;
+        height: auto;
+        left: 3%;
+        right: 3%;
+        bottom: auto;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%)
+    }
+
+    .about .content h1 {
+        font-size: 0.35rem;
+    }
+
+    .about .content h2 {
+        font-size: 0.3rem;
+        margin-top: 0.15rem;
+    }
+
+    .case_detail .content .des .intro em.text,
+    .server_detail .content .des .intro em.text {
+        position: static;
+        display: inline;
+    }
+
+    .case_detail .content .des .intro em.intro-con,
+    .server_detail .content .des .intro em.intro-con {
+        display: inline;
+        margin-left: 0;
+        padding-top: 0;
+    }
+
+    .case_detail .content .des .text,
+    .case_detail .content .des .purpose,
+    .case_detail .content .des .theme,
+    .case_detail .content .des .time,
+    .case_detail .content .des .direction,
+    .server_detail .content .des .text,
+    .server_detail .content .des .purpose,
+    .server_detail .content .des .theme,
+    .server_detail .content .des .time,
+    .server_detail .content .des .direction {
+        font-size: 0.25rem;
+    }
+
+    .about .content .txt {
+        font-size: 0.2rem;
+        margin-top: 0.1rem;
+        line-height: 1.3;
+    }
+
+    .about .content .btn {
+        margin-top: 0.3rem;
+    }
+
+    .banner .vbgm {
+        display: block;
+    }
+
+    .case .list {
+        padding: 0.6rem 0rem 0.6rem;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .case .list .inner {
+        overflow: auto;
+    }
+
+    .case .list .item {
+        width: 45.5%;
+        margin: 0 0 3% 3%;
+    }
+
+    .case .list .item .mask, .server-cate .list .item .mask {
+        opacity: 1;
+    }
+
+    .case .list .item .mask .b, .server-cate .list .item .mask .b {
+        display: none;
+    }
+
+    .case .list .item .mask h3 a, .server-cate .list .item .mask h3 a {
+        padding: 0;
+    }
+
+    .case .list .item .mask h3 a em, .server-cate .list .item .mask h3 a em {
+        display: none;
+    }
+
+    .case .list .item .mask h3 a strong, .server-cate .list .item .mask h3 a strong {
+        font-size: 0.28rem;
+        padding: 0 0.3rem;
+        line-height: 1.3;
+        color: rgba(255, 255, 255, 0.8);
+    }
+
+    .case .list .item:hover img, .server-cate .list .item:hover img {
+        transform: none;
+        -webkit-transform: none;
+    }
+
+    .server-cate .server_detail {
+        top: 80px !important;
+    }
+
+    .case_detail, .job-detail, .server_detail {
+        z-index: 1;
+    }
+
+    .case_detail .close, .job-detail .close, .server_detail .close {
+        right: 15px;
+        top: 10px;
+        width: 25px;
+        height: 25px;
+        background-size: contain;
+        z-index: 1;
+    }
+
+    .case_detail .content, .job-detail .content, .server_detail .content {
+        top: 45px;
+        right: 15px;
+        bottom: 15px;
+        left: 15px;
+        overflow: auto;
+    }
+
+    .case_detail .content .title, .job-detail .content .title, .server_detail .content .title {
+        font-size: 0.3rem;
+    }
+
+    .case_detail .content .pic, .server_detail .content .pic {
+        display: none;
+    }
+
+    .case_detail .content .des, .server_detail .content .des {
+        margin-left: 0;
+        width: 100%;
+        left: 0;
+        padding-top: 0;
+        top: 0.6rem;
+    }
+
+    .case_detail .content .des .txt, .server_detail .content .des .txt {
+        font-size: 0.2rem;
+        text-indent: 0.4rem;
+    }
+
+    .case_detail .content .mpic, .server_detail .content .mpic {
+        display: block;
+    }
+
+    .case_detail .content .des .tip, .server_detail .content .des .tip {
+        position: static;
+        margin: 15px 0 5px;
+    }
+
+    .case_detail .content .des h1, .server_detail .content .des h1 {
+        font-size: 20px;
+    }
+
+    .case_detail .content .des h3, .server_detail .content .des h3 {
+        font-size: 20px;
+    }
+
+    .case_detail .content .des .attr, .server_detail .content .des .attr {
+        font-size: 14px;
+    }
+
+    .titbox h3 {
+        font-size: 0.7rem;
+    }
+
+    .titbox h3.showtit.act i:after {
+        content: ' ';
+        position: absolute;
+        height: 0.18rem;
+        bottom: -0.14rem;
+        left: 0;
+        right: 0;
+        background-color: #fff;
+
+    }
+
+    .titbox h4 {
+        font-size: 0.45rem;
+        margin-top: 0.1rem;
+    }
+
+    .titbox p {
+        font-size: 0.24rem;
+    }
+
+    .nav_sm {
+        display: block;
+    }
+
+    .s-ace-main {
+        bottom: 0;
+    }
+
+    .s-a-home {
+        transform: none !important;
+    }
+
+    .s-a-home .s-ace-circle .circle {
+        width: 3rem;
+        height: 3rem;
+        margin-top: 0.5rem;
+    }
+
+    .s-a-home .s-ace {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0 0.5rem;
+    }
+
+    .loaded .main .s-ace .list {
+        position: absolute;
+        width: 80%;
+        left: 50%;
+        top: 30%;
+        bottom: auto;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+
+    .loaded .main .s-ace .list:first-child {
+        display: block;
+    }
+
+    .s-a-home .s-ace .top, .s-a-home .s-ace .left, .s-a-home .s-ace .right, .s-a-home .s-ace .bottom {
+        float: none;
+        position: static;
+        text-align: center;
+    }
+
+    .s-a-home .s-ace h1 {
+        font-size: 0.42rem;
+        line-height: 0.4rem;
+    }
+
+    .s-a-home .s-ace p {
+        font-size: 0.3rem;
+        line-height: 0.35rem;
+    }
+
+    .s-a-c-footer {
+        display: none;
+    }
+
+    .join-us .list {
+        top: 0.4rem;
+        left: 3%;
+        right: 0;
+        bottom: 0;
+    }
+
+    .join-us .list .table {
+        padding-right: 3%;
+        max-height: 3rem;
+    }
+
+    .join-us .list h1 {
+        font-size: 0.36rem;
+        margin-bottom: 0.2rem;
+    }
+
+    .join-us .list table thead td {
+        font-size: 0.24rem;
+        padding: 0.2rem 0;
+    }
+
+    .join-us .list table tbody td {
+        font-size: 0.2rem;
+        padding: 0.2rem 0;
+    }
+
+    .join-us .list p {
+        font-size: 0.2rem;
+        margin-top: 1rem;
+    }
+
+    .job-detail .content .post {
+        font-size: 0.2rem;
+    }
+
+    .job-detail .content table td {
+        padding: 0.2rem 0;
+        font-size: 0.2rem;
+    }
+
+    .job-detail .content table td.name {
+        padding-right: 0.3rem;
+        width: 1.5rem;
+        font-size: 0.25rem;
+    }
+
+    .service {
+        right: -100%;
+    }
+
+    .nav_service {
+        left: 200%;
+    }
+
+    .nav_sm {
+        display: block;
+    }
+
+    .service .box1 h2 {
+        font-size: 0.44rem;
+    }
+
+    .service .box1 h2 i {
+        font-weight: bold;
+    }
+
+    .service .d .text2 {
+        font-size: 0.3rem;
+        color: #fff;
+        padding: 0 0.3rem;
+        margin-top: 25px;
+        display: block;
+        line-height: 1.5;
+    }
+
+    .b_nav i {
+        width: 12px;
+        height: 12px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .header {
+        height: 65px;
+        padding: 30px 3% 0;
+    }
+
+    .header .logo {
+        width: 127px;
+        height: 35px;
+        background-size: contain;
+    }
+
+    .header .menu {
+        width: 35px;
+        height: 21px;
+        top: 7px;
+    }
+
+    .header .menu i:nth-child(2) {
+        top: 9px;
+    }
+
+    .header .menu i:nth-child(3) {
+        top: 18px;
+    }
+
+    .nav_main .d {
+        text-align: center;
+    }
+
+    .nav_main .d a {
+        width: 160px;
+        padding: 0;
+    }
+
+    .nav_main .d .icon i {
+        width: 34px;
+        height: 30px;
+        background-size: 100%;
+    }
+
+    .nav_main .d .icon-name h3 {
+        font-size: 20px;
+    }
+
+    .nav_main .d .icon-name p {
+        font-size: 14px;
+    }
+
+    .nav_sm.show i {
+        width: 12px;
+        height: 12px;
+    }
+}
